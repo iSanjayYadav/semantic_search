@@ -1,9 +1,11 @@
 # Semantic Search
 
+project from Data Science Immersive at General Assembly. All work is under "project-four-work." There are six notebooks and each one is given a "part." Parts are mapped to their corresponding sections. 
+
 ## The Task
 
 The task has three sections -- data collection, data exploration / algorithm development, then finally predictive modeling. 
-All work is under "project-four-work" and the parts are mapped to each section
+
 
 ### Section 1: Collection (Parts 1-4) 
 
